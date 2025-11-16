@@ -5,7 +5,7 @@ Geospatial Analyst | Cartographer | Web GIS Developer | Asset Management Special
 
 About Me
 
-I am a GIS professional with a unique blend of experience across transportation, stormwater, wastewater, environmental programs, and public safety analytics. I specialize in building spatial solutions—from dashboards and StoryMaps to site-selection models and automated QA/QC tools—using ArcGIS Pro, ArcGIS Enterprise, Python, SQL, and web mapping applications.
+I am a GIS professional with a unique blend of experience across transportation, stormwater, wastewater, environmental programs, and public safety analytics. I specialize in building spatial solutions from dashboards and StoryMaps to site-selection models and automated QA/QC tools—using ArcGIS Pro, ArcGIS Enterprise, Python, SQL, and web mapping applications.
 
 My work spans:
 
@@ -49,7 +49,6 @@ Tools: Dashboard, Arcade expressions, SQL views, feature layer architecture.
 Road centerline/asset maintenance workflows, LRS event data, and web app support.
 Includes: Python QA/QC automation · Integrated schema documentation · Web map tools.
 
-Experience Builder Web App — Collision & Safety Viewer
 
 
 
