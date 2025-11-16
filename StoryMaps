@@ -1,0 +1,17 @@
+# Seattle Pedestrian Safety — StoryMap
+
+### Overview
+This StoryMap analyzes pedestrian collision patterns across Seattle using:
+- Spatial Autocorrelation (Moran’s I)
+- Hot Spot Analysis (Getis-Ord Gi*)
+- Kernel Density Estimation
+- Space-Time Cube analysis
+
+### 🔗 StoryMap Link
+https://storymaps.arcgis.com/stories/20c1a2c2c0dc4175ae752227f8f41a66
+
+### 📄 Methods Summary
+- 5 years of FARS data
+- Preprocessing in ArcGIS Pro
+- Time-enabled cube construction
+- Emerging hot spot analysis
